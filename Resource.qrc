@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/data/config">
+        <file>list_kendaraan</file>
+        <file>list_parkir</file>
+    </qresource>
+    <qresource prefix="/data/img">
+        <file>logo.png</file>
+    </qresource>
+</RCC>
